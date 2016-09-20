@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://webmastertool.naver.com">
+  <id>http://ju.multiline.xyz</id>
+  <title><![CDATA[ 광주철거 ]]></title>
+  <author>
+    <name>개미산업</name>
+  </author>
+
+  <updated>2016-09-20T16:17:27+09:00</updated>
+  <link rel="site" href="http://ju.multiline.xyz" />
+
+  
+  <entry>
+    <id>http://ju.multiline.xyz/posts/2016/09/19/post.html</id>
+    <title><![CDATA[ Post ]]></title>
+    <author>
+      <name>개미산업</name>
+    </author>
+    <updated>2016-09-19T10:00:00+09:00</updated>
+    <published>2016-09-19T10:00:00+09:00</published>
+    <link rel="via" href="http://ju.multiline.xyz/posts/2016/09/19/post.html" />
+    <content type="html"><![CDATA[  
+ ]]></content>
+  </entry>
+  
+</feed>
